@@ -1,3 +1,6 @@
+// ===== PROGRAM GENERATE TEST CASE =====
+/*Biasa digunakan untuk membuat TC Hackerrank*/
+
 #include <bits/stdc++.h>
 #define len length
 #define ll  long long
